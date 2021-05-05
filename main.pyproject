@@ -1,0 +1,8 @@
+{
+    "files": [
+        "main.py",
+        "qml/main.qml",
+        "qml/widgets/SlideButton.qml",
+        "qml/pages/MainPage.qml"
+    ]
+}
