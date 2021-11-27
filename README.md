@@ -8,6 +8,6 @@
 <br>
 <h3> To do </h3>
 <br>
-- [] Make a QSettings or settings.toml<br>
-- [] Finish the custom pages/widgets<br>
-- [] Create backend in python <br>
+- [ ] Make a QSettings or settings.toml<br>
+- [ ] Finish the custom pages/widgets<br>
+- [ ] Create backend in python <br>
